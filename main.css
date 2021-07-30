@@ -1,3 +1,17 @@
 h1 {
 	text-align: center;
 }
+
+body {
+	background-color:#13d66e;
+}
+
+#wrap {
+	width: 80%;
+  	margin: auto;
+  	background: #fff;
+  	overflow: hidden;
+  	padding: 10px;
+  	border-style: solid;
+  	border-radius: 25px;
+}
